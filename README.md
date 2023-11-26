@@ -12,7 +12,13 @@ pnpm install
 ```bash
 pnpm install -g hexo-cli
 ```
-#### Run the Project
+#### Devlopment to Run the Project
 ```bash
+hexo clean && hexo generate
 hexo server
+```
+#### Production to deploy the Project
+```bash
+hexo clean && hexo generate
+hexo deploy
 ```

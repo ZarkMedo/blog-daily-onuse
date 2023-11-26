@@ -2,8 +2,18 @@
 author: "Medo"
 title: "What is the GitHub Actions"
 date: "2023-09-13"
-summary: "GitHub Actions"
-tags: ["GitHub", "CI/CD"]
+description: "Quick to know GitHub Actions and how to use it."
+tags: 
+  - "GitHub"
+  - "CI/CD"
+  - Five minutes to learn anything
+  - Five minutes to learn GitHub ecology
+categories:
+  - CI/CD
+  - GitHub
+  - Five minutes to learn GitHub ecology
+series:
+  - Five minutes to learn GitHub ecology
 cover: https://jsd.cdn.zzko.cn/gh/ZarkMedo/photoBed@master/img/github_action.png
 ---
 
