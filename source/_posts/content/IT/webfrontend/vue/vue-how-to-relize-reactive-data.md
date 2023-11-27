@@ -7,6 +7,7 @@ tags:
   - Five minutes to learn Vue
   - Five minutes to learn anything
 categories:
+  - IT Tech
   - WebFrontend
   - Vue
   - Five minutes to learn Vue

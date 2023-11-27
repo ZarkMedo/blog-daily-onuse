@@ -4,6 +4,7 @@ title: "What is the GitHub Actions"
 date: "2023-09-13"
 description: "Quick to know GitHub Actions and how to use it."
 tags: 
+  - IT Tech
   - "GitHub"
   - "CI/CD"
   - Five minutes to learn anything
