@@ -12,6 +12,8 @@
     "version": "7.0.0"
   },
   "dependencies": {
+    "disqusjs": "3.0.3-canary.1",
+    "gitalk": "^1.8.0",
     "hexo": "^7.0.0",
     "hexo-generator-archive": "^2.0.0",
     "hexo-generator-category": "^2.0.0",
