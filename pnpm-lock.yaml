@@ -12,8 +12,8 @@ dependencies:
     specifier: ^1.8.0
     version: 1.8.0(react-dom@15.7.0)(react@15.7.0)
   hexo:
-    specifier: ^7.0.0
-    version: 7.0.0
+    specifier: ^7.1.0
+    version: 7.1.0
   hexo-generator-archive:
     specifier: ^2.0.0
     version: 2.0.0
@@ -34,7 +34,7 @@ dependencies:
     version: 2.0.0
   hexo-offline:
     specifier: ^2.0.1
-    version: 2.0.1(hexo@7.0.0)
+    version: 2.0.1(hexo@7.1.0)
   hexo-renderer-ejs:
     specifier: ^2.0.0
     version: 2.0.0
@@ -2875,13 +2875,13 @@ packages:
       picocolors: 1.0.0
     dev: false
 
-  /hexo-offline@2.0.1(hexo@7.0.0):
+  /hexo-offline@2.0.1(hexo@7.1.0):
     resolution: {integrity: sha512-0Ibh3uUk13/UhXgsXw9iPnGU0Avt2qTy9V8GhhzTJVkVz339xEouHAu4K+xfXA7fCs12R5ifgHaur85q1t3C8A==}
     engines: {node: '>=12'}
     peerDependencies:
       hexo: ^5.0.0 || ^6.0.0
     dependencies:
-      hexo: 7.0.0
+      hexo: 7.1.0
       workbox-build: 6.6.0
     transitivePeerDependencies:
       - '@types/babel__core'
@@ -2984,8 +2984,8 @@ packages:
     resolution: {integrity: sha512-tbo2P9xRWEKQmRf7+XuPjx9It1MnaE26nA+EEb2DN39gK1x+26W7Nm4Iyp4AugQjBWYYDx7OLn4gp1WFxQpQew==}
     dev: false
 
-  /hexo@7.0.0:
-    resolution: {integrity: sha512-3iRSYReDcYd+bdCrDYS53aFjR717M+eSwKVXdM1tF2QETi8urcwDdDDoD7Nm2E0trqN4oeoHJ7FoXbn2UsZxqw==}
+  /hexo@7.1.0:
+    resolution: {integrity: sha512-FFjo8NwqSQVxASSKFGkFUak720sFC/p3IxkDIOHLXQ1axQ5w4ipFU0DNqDzwyb5EJOMFYuMxFcurhm9olQP13A==}
     engines: {node: '>=14'}
     hasBin: true
     dependencies:
